@@ -6,4 +6,4 @@ To encode use the '-e' option.
 
 
 
-To decode an image use the '-d'option.
+To decode an image use the '-d' option.
